@@ -16,7 +16,7 @@ A motivação parte de uma premissa real do setor de varejo: entregas fora do pr
 ## 🗂️ Estrutura do Projeto
 
 ```
-├── notebook_analise.ipynb       # Notebook principal com toda a análise
+├── MVP_Análise_de_dados_e_boas_práticas.ipynb       # Notebook principal com toda a análise
 ├── README.md                    # Este arquivo
 └── Data/
     ├── olist_orders_dataset.csv

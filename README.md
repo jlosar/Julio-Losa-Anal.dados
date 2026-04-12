@@ -131,32 +131,20 @@ O dataset é relacional, composto por **8 tabelas** conectadas por chaves única
 ## 🛠️ Tecnologias Utilizadas
 
 ```
-Python 3.x
+Python 
 ├── pandas          → Manipulação e integração dos dados
 ├── numpy           → Operações numéricas e transformações
 ├── matplotlib      → Visualizações base
 ├── seaborn         → Visualizações estatísticas
 └── scikit-learn    → Estrutura para modelagem futura
 ```
-
----
-
-## ▶️ Como Executar
-
-1. Clone o repositório ou acesse o notebook diretamente
-2. Certifique-se de ter as bibliotecas instaladas:
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn
-   ```
-3. Execute o notebook `notebook_analise.ipynb` do início ao fim  
-   *(os dados são carregados automaticamente via URL pública)*
-
 ---
 
 ## 👤 Autor
 
 **Julio Losa**  
-Pós-Graduação em Análise de Dados e Boas Práticas  
+Pós-Graduação Latu Sensu, Ciência de dados e Analytics
+Sprint: Análise de dados e Boas práticas
 
 ---
 

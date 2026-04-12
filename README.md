@@ -144,6 +144,7 @@ Python
 
 **Julio Losa**  
 Pós-Graduação Latu Sensu, Ciência de dados e Analytics
+
 Sprint: Análise de dados e Boas práticas
 
 ---
